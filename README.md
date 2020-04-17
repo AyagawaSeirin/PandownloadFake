@@ -11,3 +11,9 @@ Pandownload无法启动的原因是其服务器关闭了，但软件的下载百
 方法及文件由<https://www.hostloc.com/thread-675311-1-1.html>提供
 
 不知道此方法能用多久，且用且珍惜了。
+
+## 文件更新
+
+目前更新到了最新的文件内容，感谢[Womsxd](https://github.com/Womsxd)提供的文件。
+
+原仓库地址：<https://github.com/Womsxd/pandownload.com_Pages_Backup>

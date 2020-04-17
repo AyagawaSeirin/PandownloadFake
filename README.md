@@ -17,3 +17,7 @@ Pandownload无法启动的原因是其服务器关闭了，但软件的下载百
 目前更新到了最新的文件内容，感谢[Womsxd](https://github.com/Womsxd)提供的文件。
 
 原仓库地址：<https://github.com/Womsxd/pandownload.com_Pages_Backup>
+
+## 提示
+
+2020/4/14: 经目前监测，Pandownload.com官方服务似乎已恢复，不使用本方案软件也可以正常打开，在这种情况下请删除相关hosts配置恢复原状，使用官方的服务。本Repo仅供紧急情况下使用。
